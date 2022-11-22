@@ -1,11 +1,20 @@
-A public git repository.[URL01]
-https://github.com/KarimMohamedTalaat/UdacityProject3
+A public git repository [URL01]
+https://github.com/KarimMohamedTalaat/Uadcity-project-3
 ------------------------------------------------------------------------
-URL to S3 Bucket
-URL02 => http://udapeople-474bf31.s3-website-us-east-1.amazonaws.com
+
+
+
+
+URL S3 Bucket [URL02]
+http://udapeople-625e3e1.s3-website-us-east-1.amazonaws.com/#/employees
 ------------------------------------------------------------------------
-URL to  CloudFront distribution
-URL03  => d2co8qsk3xs10d.cloudfront.net
+
+
+
+
+URL CloudFront distribution [URL03]
+https://d2mcmiabji6znx.cloudfront.net/#/employees
+------------------------------------------------------------------------
 
 
 
